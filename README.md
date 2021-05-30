@@ -27,11 +27,8 @@
 # 🏃‍♂️ Easy Deploy 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX-v2.0.git)
 # ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Self-hosting (For Devs) ⚔
-```
+<a href="https://t.me/Chetak_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ChetakUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Mandatory Vars 📒
 ```
@@ -47,27 +44,3 @@
     [-] REDIS_PORT: At the end of uri
     [-] REDIS_PASS: pass
 [+] The DaisyX won't run without setting the mandatory vars.
-```
-
-# 😍 Credits
-
- - 
-
-## Special Credits
-
-The bot is based on the original work done by [SophieBot](https://gitlab.com/SophieBot/sophie)
-This repo was just revamped to suit an Anime-centric & comedy loving community. All original credits go to SophieBot and their dedication, Without his efforts, this fork would not have been possible!
-
-All other credits mentioned on top of scripts
-
-Anything missing kindly let us know at [Daisy Support](https://t.me/DaisySupport_Official) or simply submit a pull request on the readme.
-
-# Daisy X the telegram Bot Project
-
-
-
-## Contributors
-
-
-> And credits goes to all who supported, all who helped and API & environmental equirement package devs and all projects helped in making this project.
-> Special thanks to you for using bot
