@@ -5,7 +5,7 @@
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
 
-
+<p align="center"><a href="https://t.me/Chetak_support"><img src="https://telegra.ph/file/48b865939f43780fd84ab.jpg" width="400"></a></p>
 > ⭐️ Thanks to everyone who starred ChetakX, That is the greatest pleasure we have !
 
 ### The first AioGram based modified groupmanagement bot fully optimized for heroku deploys
