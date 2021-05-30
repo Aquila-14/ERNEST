@@ -7,7 +7,7 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database and 
 
 Can be found on telegram as [Alicia Robot](https://t.me/AliciaGroup_bot).
 
-The Support group can be reached out to at [Alicia Robot Support](https://t.me/MafiaBot_Support), where you can ask for help about [Alicia Robot](https://t.me/AliciaGroup_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Alicia Robot Support](https://t.me/Alicia_support), where you can ask for help about [Alicia Robot](https://t.me/AliciaGroup_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 News channel as at [Alicia Updates](https://t.me/MafiaBot_Support) 
 
