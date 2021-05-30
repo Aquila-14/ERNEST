@@ -31,4 +31,4 @@
     [-] REDIS_URI: from redislabs.com (remove port)
     [-] REDIS_PORT: At the end of uri
     [-] REDIS_PASS: pass
-[+] The DaisyX won't run without setting the mandatory vars.
+[+] The CHETAK won't run without setting the mandatory vars.
