@@ -1,2 +1,3 @@
-CHETAK: python3 -m CHETAK
-ps:scale CHETAK=1
+worker: python3 -m AliciaRobot
+web: python3 -m AliciaRobot
+ps:scale worker=1
