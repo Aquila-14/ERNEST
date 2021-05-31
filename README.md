@@ -11,6 +11,13 @@ The Support group can be reached out to at [Alicia Robot Support](https://t.me/A
 
 News channel as at [Alicia Updates](https://t.me/MafiaBot_Support) 
 
+### The Easy Way
+
+<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
+
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeam-Criminal%2FChetak-%2Fblob%2Fmaster%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FTeam-Criminal%2FChetak-emplate=https%3A%2F%2Fgithub.com%2FTeam-Criminal%2FChetakX-" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+
+
 
 ## Credits
 Saitama Robot - : https://github.com/AnimeKaizoku/SaitamaRobot
