@@ -1,14 +1,15 @@
 {
-      "name": "AliciaBot",
+      "name": "ChetakBot",
       "description": "Telegram group management bot.",
+      "logo": "https://telegra.ph/file/312851d8e5083652b797a.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Alicia"
+         "Chetak"
       ],   
-   "repository": "https://github.com/Team-Criminal/Alicia",
+   "repository": "https://github.com/Team-Criminal/Chetak-",
    "addons": [
       {
          "options": {
