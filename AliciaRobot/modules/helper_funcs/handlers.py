@@ -1,6 +1,6 @@
-import AliciaRobot.modules.sql.blacklistusers_sql as sql
-from AliciaRobot import ALLOW_EXCL
-from AliciaRobot import DEV_USERS, DRAGONS, DEMONS, TIGERS, WOLVES
+import TysonRobot.modules.sql.blacklistusers_sql as sql
+from TysonRobot import ALLOW_EXCL
+from Tysonrobot import DEV_USERS, DRAGONS, DEMONS, TIGERS, WOLVES
 
 from telegram import Update
 from telegram.ext import CommandHandler, MessageHandler, RegexHandler, Filters
@@ -13,9 +13,9 @@ from pyrate_limiter import (
 )
 
 if ALLOW_EXCL:
-    CMD_STARTERS = ("/", "!")
+    CMD_STARTERS = ("/", "!", "?")
 else:
-    CMD_STARTERS = ("/",)
+    CMD_STARTERS = ("/", "!")
 
 
 class AntiSpam:
