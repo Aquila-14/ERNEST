@@ -236,8 +236,8 @@ def start(update: Update, context: CallbackContext):
                              text="🔔 Updates Channel",
                              url="https://t.me/Ernest_support")
                      ]
-    else:
-        update.effective_message.reply_text(
+        else:
+            update.effective_message.reply_text(
             "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>"
             .format(uptime),
             parse_mode=ParseMode.HTML)
