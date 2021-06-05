@@ -1,15 +1,15 @@
 {
-      "name": "ChetakBot",
+      "name": "ERNEST ROBot",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/312851d8e5083652b797a.jpg",
+      "logo": "https://telegra.ph/file/d5b5a5257a6fc050c9290.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Chetak"
+         "ERNEST"
       ],   
-   "repository": "https://github.com/Team-Criminal/Chetak",
+   "repository": "https://github.com/Team-Criminal/ERNEST",
    "addons": [
       {
          "options": {
@@ -22,17 +22,17 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "1860769164:AAHSxwzgIGBKdspScezEyPH-Kq3gWzoVv_k"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "2674327"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "a7a5b17b204832a7d8afca34bba9efb3"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -46,7 +46,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": ""
+        "value": "4e3265a6-11ac-4c8b-8843-835a9d6db464"
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "HUNTER_S_BACK"
+         "value": "HUNTER_IS_DEAD"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "@Alicia_Support"
+         "value": "@Ernest_support"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -69,12 +69,12 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": ""
+         "value": "-1001431395513"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": ""
+         "value": "-1001441352452"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -94,12 +94,12 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1062256838 1212368262"
+         "value": "1062256838 1035003753"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
-         "value": ""
+         "value": "8hgQIht9vewFPyBIfLCtdZfEmjfDbqmt54cqvWhYcRLGRwQAUK~CBjp2ADCX41pe"
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -108,7 +108,7 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1212368262 991338956 1798304154"
+         "value": "1035003753 991338956 1798304154 1648293710"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
@@ -123,7 +123,7 @@
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1062256838 991338956 1798304154 1212368262"
+         "value": "1062256838 1035003753 991338956 1798304154 1648293710"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
