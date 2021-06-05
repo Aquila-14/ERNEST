@@ -226,7 +226,8 @@ def start(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="☑️ Add ERNEST to your group",
                             url="t.me/Mr_ernest_bot?startgroup=true",
-                    ],
+                    ]   
+                  ],
                      [
                          InlineKeyboardButton(
                              text="🚑 Support Group",
