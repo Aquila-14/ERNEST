@@ -46,12 +46,12 @@ async def get_start_func(message, strings, edit=False):
     buttons.add(
         InlineKeyboardButton(strings["btn_lang"], callback_data="lang_btn"),
         InlineKeyboardButton(
-            strings["btn_source"], url="https://github.com/TeamDaisyX/"
+            strings["btn_source"], url="https://github.com/Team-Criminal"
         ),
     )
     buttons.add(
-        InlineKeyboardButton(strings["btn_channel"], url="https://t.me/Chetak_support"),
-        InlineKeyboardButton("👥 Support Grup", url="https://t.me/Chetak_support"),
+        InlineKeyboardButton(strings["btn_channel"], url="https://t.me/ErnestUpdates"),
+        InlineKeyboardButton("👥 Support Grup", url="https://t.me/Ernest_support"),
     )
     buttons.add(
         InlineKeyboardButton(
