@@ -15,7 +15,7 @@ News channel  at [ERNEST Updates](https://t.me/ErnestUpdates)
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-Deploy it [here](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeam-Criminal%2FChetak-%2Fblob%2Fmaster%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FTeam-Criminal%2FChetak-)
+Deploy it [here](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeam-Criminal%2FERNEST%2Fblob%2Fmaster%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FTeam-Criminal%2FERNEST)
 
 
 ## Credits
