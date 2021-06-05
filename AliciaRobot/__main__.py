@@ -102,10 +102,10 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ALICIA_IMG = "https://telegra.ph/file/2db636b075b8d25748097.jpg"
+ERNEST_IMG = "https://telegra.ph/file/d5b5a5257a6fc050c9290.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Alicia is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
+ERNEST is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
 There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
@@ -215,7 +215,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_photo(
-                ALICIA_IMG,
+                ERNEST_IMG,
                 PM_START_TEXT.format(
                     escape_markdown(first_name),
                     escape_markdown(context.bot.first_name)),
@@ -224,17 +224,16 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Add Alicia to your group",
-                            url="t.me/{}?startgroup=true".format(
-                                context.bot.username))
+                            text="☑️ Add ERNEST to your group",
+                            url="t.me/Mr_ernest_bot?startgroup=true",
                     ],
                      [
                          InlineKeyboardButton(
                              text="🚑 Support Group",
-                             url=f"https://t.me/{SUPPORT_CHAT}"),
+                             url="https://t.me/Ernest_support"),
                          InlineKeyboardButton(
                              text="🔔 Updates Channel",
-                             url="https://t.me/MafiaBot_Support")
+                             url="https://t.me/Ernest_support")
                      ]
                     ]))
     else:
